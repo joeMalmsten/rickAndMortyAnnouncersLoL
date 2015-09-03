@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Regions>
+
+    <English>
+        <Region>lol_game_client_en_gb</Region>
+    </English>
+
+    <English_US>
+        <Region>lol_game_client_en_us</Region>
+    </English_US>
+
+    <German>
+        <Region>lol_game_client_de_de</Region>
+    </German>
+
+    <Greek>
+        <Region>lol_game_client_el_gr</Region>
+    </Greek>
+
+    <Polski>
+        <Region>lol_game_client_pl_pl</Region>
+    </Polski>
+
+    <Espagnol>
+        <Region>lol_game_client_es_es</Region>
+    </Espagnol>
+
+    <French>
+        <Region>lol_game_client_fr_fr</Region>
+    </French>
+
+    <Romanian>
+        <Region>lol_game_client_ro_ro</Region>
+    </Romanian>
+
+    <Russia>
+        <Region>lol_game_client_ru_ru</Region>
+    </Russia>
+
+    <Turkey>
+        <Region>lol_game_client_tr_tr</Region>
+    </Turkey>
+
+    <Portugues>
+        <Region>lol_game_client_pt_br</Region>
+    </Portugues>
+
+    <LATNLATS>
+        <Region>lol_game_client_es_mx</Region>>
+    </LATNLATS>
+
+    <Oceania>
+        <Region>lol_game_client_en_au</Region>
+    </Oceania>
+
+    <Italian>
+        <Region>lol_game_client_it_it</Region>
+    </Italian>
+</Regions>
+	
